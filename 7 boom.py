@@ -3,9 +3,7 @@ for i in range(1, 101):
     if ((i % 7) != 0) and (False == (str(7) in str(i))):
         print(i)
 
-
-
-
+print("dog")
 
 
 
